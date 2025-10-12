@@ -17,7 +17,7 @@ export function HeroSection() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="animate-fade-in">
           <Avatar className="w-32 h-32 mx-auto mb-8 ring-4 ring-primary/20">
-            <AvatarImage src="/young-developer-headshot.png" alt="Yann HOUNDJO" />
+            <AvatarImage src="/WhatsApp Image 2025-09-17 à 15.38.44_e1409b66.jpg" alt="Yann HOUNDJO" />
             <AvatarFallback className="text-2xl font-bold bg-primary text-primary-foreground">YH</AvatarFallback>
           </Avatar>
 
