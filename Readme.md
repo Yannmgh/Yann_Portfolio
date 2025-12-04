@@ -8,7 +8,7 @@ Je suis **Yann Marie-Gilles HOUNDJO**, étudiant en **Bachelor Concepteur Dével
 
 ## 🚀 Aperçu en ligne
 
-🔗 **Lien en ligne (Vercel)** : [https://portfolio-yann.vercel.app]  
+🔗 **Lien en ligne (Vercel)** : [[https://portfolio-yann.vercel.app](https://yann-portfolio-nine.vercel.app/)]  
 
 📸 **Capture d’écran** :  
 # 🌐 Portfolio – Yann HOUNDJO
